@@ -68,11 +68,10 @@ for epoch in range(epochs):
 
 ### True Stock Price, Predicted Stock Price vs time
 
-Include your plot here
+![image](https://github.com/user-attachments/assets/00a62914-4c0a-46e2-a64d-e36e385f0b05)
 
 ### Predictions 
-
-Include the predictions on test data
+![image](https://github.com/user-attachments/assets/65d92ed3-ff69-4bfb-8d35-5777b70c86c6)
 
 ## Result
 The RNN model successfully predicts future stock prices based on historical closing prices. The predicted prices closely follow the actual prices, demonstrating the model's ability to capture temporal patterns. The performance of the model is evaluated by comparing the predicted and actual prices through visual plots.
