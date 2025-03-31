@@ -24,10 +24,12 @@ Define the RNN model.
 Train the model using the training data.
 ### Step 7:
 Evaluate the model and plot predictions.
+
 ## Program
+
 #### Name: Krithick Vivekananda
 #### Register Number: 212223240075
-Include your code here
+
 ```Python
 # Define RNN Model
 class RNNModel(nn.Module):
